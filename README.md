@@ -6,7 +6,7 @@
 >##### <img src="TI.png" alt="TI" width="10"/> `Looking for experience in the field`
 ---
 ### Contact links 📫
-###### [![Telegram]( https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tavares_194) [![Gmail]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabriel.tavares.1904@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-tavares-a92239174/)
+###### [![Telegram]( https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tavares_194) [![Gmail]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.tavares.1904@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-tavares-a92239174/)
 ---
 ###### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tavares194&show_icons=true&theme=tokyonight)
 ---
