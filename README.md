@@ -22,7 +22,7 @@
 <div>
   <h2>Stats 👨🏻‍💻</h2>
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Tavares194&show_icons=true&theme=dracula&count_private=true"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tavares194&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tavares194&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
 <hr>
