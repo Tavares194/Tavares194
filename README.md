@@ -1,6 +1,6 @@
 <div>
   <h2>About me 💬</h2>
-    <img src="IF.png" alt="IF" width="10"/> IFSP student in Systems Development
+    <img src="IF.png" alt="IF" width="10"/> IT technician at IFSP
     <br>
     <img src="Developer.png" alt="DEV" width="10"/> Full Stack Developer
     <br>
